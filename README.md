@@ -8,6 +8,7 @@ Static site of Atlurio Games (GitHub Pages, no build step).
 - `/app-ads.txt` — authorized sellers for Google AdMob and Unity (ads via Unity LevelPlay)
 
 The Privacy Policy describes what the game Atlurio: World Geography Quiz actually does:
-Unity Gaming Services (player account, cloud save, Arena), Google Play Games sign-in, and ads
+Unity Gaming Services (anonymous player account, automatic cloud save, Arena) and ads
 through Unity LevelPlay (ironSource Ads, Unity Ads, Google AdMob). When the game changes what it
-collects, update both languages and the effective date.
+collects, update both languages and the effective date. Google Play Games sign-in is not in the
+game yet: add it to section 2 of both policies when it ships.
