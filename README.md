@@ -5,7 +5,7 @@ Static site of Atlurio Games (GitHub Pages, no build step).
 - `/`, `/ru/` — home page (EN, RU)
 - `/privacy/`, `/ru/privacy/` — Privacy Policy (EN, RU)
 - `/delete-account/`, `/ru/delete-account/` — account and data deletion (EN, RU)
-- `/app-ads.txt` — authorized sellers for Google AdMob and Unity (ads via Unity LevelPlay)
+- `/app-ads.txt` — authorized sellers for Google AdMob, Unity Ads and ironSource Exchange (ads via Unity LevelPlay); the ironSource reseller list changes from time to time, see the link in the file
 
 The Privacy Policy describes what the game Atlurio: World Geography Quiz actually does:
 Unity Gaming Services (anonymous player account, automatic cloud save, Arena) and ads
