@@ -4,6 +4,7 @@ Static site of Atlurio Games (GitHub Pages, no build step).
 
 - `/`, `/ru/` — home page (EN, RU)
 - `/privacy/`, `/ru/privacy/` — Privacy Policy (EN, RU)
+- `/terms/`, `/ru/terms/` — Terms of Use (EN, RU): player names and fair play in the Arena, in-game items, ads; the URL is in Play Console (trader status declaration)
 - `/delete-account/`, `/ru/delete-account/` — account and data deletion (EN, RU)
 - `/app-ads.txt` — authorized sellers for Google AdMob, Unity Ads and ironSource Exchange (ads via Unity LevelPlay); the ironSource reseller list changes from time to time, see the link in the file
 
