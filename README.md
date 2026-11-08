@@ -15,6 +15,13 @@ collects, update both languages and the effective date. Google Play Games sign-i
 account linked to a Play Games profile) is described in section 2 of both policies and on the
 account deletion pages.
 
+Account deletion: in the game (Settings → Help → Delete account and data, at once, also erases the
+progress on the phone) or by email (Player ID from the bottom of Settings, name in the game and
+approximate level; the owner checks them with the deletion script in the game repository and
+replies within 30 days). What is deleted and what stays for a while (opponents' duel history,
+league groups of past weeks, server logs) is listed on the deletion pages and in section 7 of
+both policies. When the game's deletion changes, update all four pages together.
+
 Look: the game's own brand. The top band uses the app icon's blue, headings use Nunito (the game's
 font, `/fonts`), icons in `/img` are made from the game's app icon. No third-party requests: no
 external fonts, scripts, cookies or analytics.
